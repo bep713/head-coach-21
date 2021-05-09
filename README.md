@@ -12,8 +12,8 @@ Bring your coaching skills into the next decade with updated rosters, portraits,
 
 ## Installation Guide
 
-- [PC click here](#pc-steps)
-- [PS3 click here](#ps3-steps)
+- [<img width="20" src="./assets/pc-logo.jpg"> PC click here](#pc-steps)
+- [<img width="20" src="https://logo-logos.com/wp-content/uploads/2016/10/PlayStation_logo.png"> PS3 click here](#ps3-steps)
 
 <br/>
 
@@ -25,7 +25,7 @@ Bring your coaching skills into the next decade with updated rosters, portraits,
 
 1. Make sure your game folder is named EXACTLY BLUS30128-[NFL Head Coach 09] or else the Easy Installer will not work. Then, open up your RPCS3 folder and place your game folder in dev_hdd0/disc/. 
 
-1. Next, download the [Easy Installer PKG That comes in this rar file ](https://www.mediafire.com/file/m4jn110ig1z0jqr/HC21_PC.rar/file)
+1. Next, download the [Easy Installer PKG That comes in this rar file](https://www.mediafire.com/file/m4jn110ig1z0jqr/HC21_PC.rar/file)
 
 1. Extract all contents to a new folder.
 
@@ -49,11 +49,11 @@ Bring your coaching skills into the next decade with updated rosters, portraits,
 
 #### PS3 (Disc Copy) Download Instructions
 
-1.	Follow this great YouTube guide to install HEN and multiMAN on your PS3. It should only take 30 minutes to an hour. YOU CAN SKIP THE OPTIONAL STEP from 13:17-14:29.
+1.	Follow [this great YouTube guide to install HEN and multiMAN on your PS3](https://www.youtube.com/watch?v=fOKemRHAZ3c). It should only take 30 minutes to an hour. YOU CAN SKIP THE OPTIONAL STEP from 13:17-14:29.
 
-1.	Start up your PS3 console and click the "Enable HEN" button (if it fails try again until it works). Then place your game disc in your console and launch the multiMAN application you installed earlier.
+1.	Start up your PS3 console and click the `Enable HEN` button (if it fails try again until it works). Then place your game disc in your console and launch the multiMAN application you installed earlier.
 
-1.	Now, hover over the HC09 icon and hit Triangle. A menu will pop up. Click copy, then click PS3 HDD (/dev_hdd0). It will probably ask you "Do you want to copy the game from BD-ROM to internall HDD?". Select "yes".
+1.	Now, hover over the HC09 icon and hit Triangle. A menu will pop up. Click copy, then click PS3 HDD (/dev_hdd0). It will probably ask you `Do you want to copy the game from BD-ROM to internall HDD?`. Select `yes`.
 
 1.	This should take anywhere from 15-30 minutes to copy all the files over. Once it is done, you can click Square to continue. Then eject your disc (you will never need your disc again, you can keep it in the case forever) and quit out of multiMAN. If you got an error saying the process was aborted, please clean your disc and try again.
 
@@ -65,7 +65,7 @@ Bring your coaching skills into the next decade with updated rosters, portraits,
 
 1.	To add the roster file, create a new folder on your USB called PS3. Then inside that folder make one called SAVEDATA. Paste the Career file folder from the rar in there.
 
-1.	Plug your USB drive into your PS3, navigate to the game tab on the main menu, scroll down to the bottom, and open the "Package Manager". Then click "Install Package Files". Then click "Standard". You should now see a file called CUSTOM-INSTALLER_HC21_PS3.pkg. Select it and wait for it to finish installing. If you get an error while installing, go back to the main menu and click on the "enable HEN" button and try again.
+1.	Plug your USB drive into your PS3, navigate to the game tab on the main menu, scroll down to the bottom, and open the `Package Manager`. Then click `Install Package Files`. Then click `Standard`. You should now see a file called `CUSTOM-INSTALLER_HC21_PS3.pkg`. Select it and wait for it to finish installing. If you get an error while installing, go back to the main menu and click on the `enable HEN` button and try again.
 
 1.	Once all parts are finished installing, you can remove the USB drive. MAKE SURE YOU HAVE ALREADY EJECTED YOUR GAME DISC.
 
