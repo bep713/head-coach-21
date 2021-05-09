@@ -10,10 +10,17 @@ Bring your coaching skills into the next decade with updated rosters, portraits,
 
 ---
 
+## Release Notes
+[Click here for release notes](./release-notes/release-notes.md)
+
+---
+
 ## Installation Guide
 
 - [<img width="20" src="./assets/pc-logo.jpg"> PC click here](#pc-steps)
 - [<img width="20" src="https://logo-logos.com/wp-content/uploads/2016/10/PlayStation_logo.png"> PS3 click here](#ps3-steps)
+
+After installing, make sure to use the HC09 Editor (included in the downloaded  files below) to change your user controlled team. The career file will start with the Browns as the default team if you do not change anything.
 
 <br/>
 
