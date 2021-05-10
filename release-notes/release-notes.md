@@ -8,6 +8,7 @@
 ### Career File
 - Added all players for 2020-2021 season (from M21 base game).
 - Added stat histories for all players.
+- Added salaries for all players directly from M21.
 - Added 2020-2021 NFL schedule.
 - Updated team names (LA Rams, etc...)
 - Updated salary cap to start of 2020.
