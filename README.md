@@ -36,7 +36,7 @@ After installing, make sure to use the HC09 Editor (included in the downloaded  
 
 1. Extract all contents to a new folder.
 
-1. To save the into your emulator, just copy the Career folder into dev_hdd0\home\00000001\savedata inside your RPCS3 folder. 
+1. To put the roster save into your emulator, just copy the Career folder into dev_hdd0\home\00000001\savedata inside your RPCS3 folder. 
 
 1. Finally, simply launch RPCS3 and drag the PKG file you just downloaded into the main RPCS3 window. It will take a few minutes to install. You will know it worked if the game icon changes to a HC21 logo. After that, launch the game and enjoy the mods!
 
