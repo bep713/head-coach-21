@@ -20,7 +20,7 @@ Bring your coaching skills into the next decade with updated rosters, portraits,
 - [<img width="20" src="./assets/pc-logo.jpg"> PC click here](#pc-steps)
 - [<img width="20" src="https://logo-logos.com/wp-content/uploads/2016/10/PlayStation_logo.png"> PS3 click here](#ps3-steps)
 
-After installing, make sure to use the HC09 Editor (included in the downloaded  files below) to change your user controlled team. The career file will start with the Chiefs as the default team if you do not change anything. You will need to bruteforce your files if you are on PS3.
+After installing, make sure to use the HC09 Editor (included in the downloaded  files below) to change your user controlled team. The career file will start with the Chiefs as the default team if you do not change anything. You will need to bruteforce your files if you are on PS3 before you can change your team in the editor.
 
 <br/>
 
