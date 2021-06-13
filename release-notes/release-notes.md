@@ -1,4 +1,10 @@
 # HC21 Release Notes (PC & PS3)
+
+## v2.0
+- Updated all 32 team logos
+- Added new loading video
+- Added HC21 logo to bottom of the menu screen
+
 ## v1.0
 
 ### Game Assets
