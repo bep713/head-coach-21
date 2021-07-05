@@ -1,5 +1,9 @@
 # HC21 Release Notes (PC & PS3)
 
+## v3.0
+Updated over 10 fields
+Updated team helmet logos
+
 ## v2.0
 - Updated all 32 team logos
 - Added new loading video
