@@ -32,7 +32,7 @@ After installing, make sure to use the HC09 Editor (included in the downloaded  
 
 1. Make sure your game folder is named EXACTLY BLUS30128-[NFL Head Coach 09] or else the Easy Installer will not work. Then, open up your RPCS3 folder and place your game folder in dev_hdd0/disc/. 
 
-1. Next, download the [Easy Installer PKG That comes in this rar file](https://www.mediafire.com/file/kqljd6q2pvjqbvx/HC21_PC_V3.rar/file)
+1. Next, download the [Easy Installer PKG That comes in this rar file](https://www.mediafire.com/file/75v5382gjsu70pu/HC21_PC_V3.rar/file)
 
 1. Extract all contents to a new folder.
 
